@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khattab Sallaman</h1>
+<h1 align="center">Hi 👋, I'm Khatta Sallaman</h1>
 <h3 align="center">a passionate full-stack developer</h3>
 
 - 🌱 I’m currently learning **electron js, c#, tensorflow js**
@@ -13,8 +13,6 @@
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/17twt9JqZ4rbsaSF5oDIeGJattd6GlLha-FCVpGQsA1U" target="blank">resume</a>
 </p>
 
-
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

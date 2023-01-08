@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14029
-Fork on GitHub
-3728
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Khattab Sallaman</h1>
 <h3 align="center">a passionate full-stack developer</h3>
 

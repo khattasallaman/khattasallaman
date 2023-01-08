@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **khattasallaman@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/17twt9JqZ4rbsaSF5oDIeGJattd6GlLha-FCVpGQsA1U/edit](https://docs.google.com/document/d/17twt9JqZ4rbsaSF5oDIeGJattd6GlLha-FCVpGQsA1U/edit)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/17twt9JqZ4rbsaSF5oDIeGJattd6GlLha-FCVpGQsA1U/edit" target="blank">resume</a>
+</p>
+
 
 - ⚡ Fun fact **I think I'm funny**
 

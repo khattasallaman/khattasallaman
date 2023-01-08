@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **electron js, c#, tensorflow js**
 
-- 👨‍💻 Some of my projects are available at  <a href="https://khata-c89d1.web.app/" target="blank">resume</a>
+- 👨‍💻 Some of my projects are available at  <a href="https://khata-c89d1.web.app/" target="blank">khatta.com</a>
 </p>
 
 - 💬 Ask me about **React, React Native, Node js**

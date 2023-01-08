@@ -3,13 +3,14 @@
 
 - 🌱 I’m currently learning **electron js, c#, tensorflow js**
 
-- 👨‍💻 Some of my projects are available at [https://khata-c89d1.web.app/](https://khata-c89d1.web.app/)
+- 👨‍💻 Some of my projects are available at  <a href="https://khata-c89d1.web.app/" target="blank">resume</a>
+</p>
 
 - 💬 Ask me about **React, React Native, Node js**
 
 - 📫 How to reach me **khattasallaman@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/17twt9JqZ4rbsaSF5oDIeGJattd6GlLha-FCVpGQsA1U/edit" target="blank">resume</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/17twt9JqZ4rbsaSF5oDIeGJattd6GlLha-FCVpGQsA1U" target="blank">resume</a>
 </p>
 
 

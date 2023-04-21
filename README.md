@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/khattab_salaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khattab_salaman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khattab-abdalwahab-suliman-753293201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khattab-abdalwahab-suliman-753293201" height="30" width="40" /></a>
+<a href="https://twitter.com/khattab_salaman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khattab_salaman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khattab-suliman-753293201/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khattab-abdalwahab-suliman-753293201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

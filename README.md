@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **khattasallaman@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1WiRQcs6XvGcZt9wBKKgBvsUT3g70uU_f/view" target="blank">resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ogmTqnA3CJ388-zL9RmhMfulvXrfN_dQ/view" target="blank">resume</a>
 </p>
 
 

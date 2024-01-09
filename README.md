@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khatta Sallaman</h1>
+<h1 align="center">Hi 👋, I'm Khattab</h1>
 <h3 align="center">Passionate Software Developer</h3>
 
 - 🌱 I’m currently learning **electron js, c#, tensorflow js**

@@ -3,7 +3,7 @@
 
 </p>
 
-- 💬 Ask me about **React, Nextjs, React Native, Node js.**
+- 💬 Ask me about **Nextjs, React Native, Node js, Rails, Go**
 
 
 </p>

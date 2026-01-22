@@ -6,7 +6,7 @@ I build scalable web & mobile applications with a strong focus on clean architec
 </p>
 
 <ul>
-  <li>💼 6+ years of professional experience shipping production apps</li>
+  <li>💼 7+ years of professional experience shipping production apps</li>
   <li>⚙️ Full-stack: Frontend, Backend, Mobile & APIs</li>
   <li>🚀 Passionate about maintainable code, system design, and developer experience</li>
   <li>💬 Ask me about <strong>Next.js, React Native, Node.js, Ruby on Rails, Go</strong></li>
